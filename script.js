@@ -652,6 +652,14 @@
                     notesUrl: "https://disk.yandex.by/i/KiQhuWqmSlTLeQ",
                     duration: "1:33"
                 },
+                {
+                    id: 23,
+                    title: "Сложное предложение. ССП и СПП",
+                    description: "",
+                    videoId: "UJhWiZ-JyeE", 
+                    notesUrl: "https://disk.yandex.by/i/XEYAyWUOuDqheg",
+                    duration: "1:31"
+                }
                 
             ]
         },
@@ -868,6 +876,14 @@
                     notesUrl: "",
                     duration: "1:28"
                 },
+                {
+                    id: 27,
+                    title: "Социокультурная компетенция",
+                    description: "",
+                    videoId: "Kzx_moev_1o",
+                    notesUrl: "",
+                    duration: "1:31"
+                }
                 
             ]
         }
