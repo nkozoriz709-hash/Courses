@@ -659,6 +659,14 @@
                     videoId: "UJhWiZ-JyeE", 
                     notesUrl: "https://disk.yandex.by/i/XEYAyWUOuDqheg",
                     duration: "1:31"
+                },
+                {
+                    id: 24,
+                    title: "Знаки препинания в ССП и СПП",
+                    description: "",
+                    videoId: "0LKRcTy5cu4", 
+                    notesUrl: "https://disk.yandex.by/i/pyevrqwu52nToA",
+                    duration: "1:33"
                 }
                 
             ]
@@ -883,6 +891,14 @@
                     videoId: "Kzx_moev_1o",
                     notesUrl: "",
                     duration: "1:31"
+                },
+                {
+                    id: 28,
+                    title: "Словообразование существительных",
+                    description: "",
+                    videoId: "mPtSdmfpc2c",
+                    notesUrl: "",
+                    duration: "1:21"
                 }
                 
             ]
