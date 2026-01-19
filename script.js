@@ -667,6 +667,14 @@
                     videoId: "0LKRcTy5cu4", 
                     notesUrl: "https://disk.yandex.by/i/pyevrqwu52nToA",
                     duration: "1:33"
+                },
+                {
+                    id: 25,
+                    title: "Бессоюзное сложное предложение",
+                    description: "",
+                    videoId: "gNkjgee94a4",
+                    notesUrl: "https://disk.yandex.by/i/7Z6H2c2E8A_IXw",
+                    duration: "1:28"
                 }
                 
             ]
@@ -899,6 +907,14 @@
                     videoId: "mPtSdmfpc2c",
                     notesUrl: "",
                     duration: "1:21"
+                },
+                {
+                    id: 29,
+                    title: "Образование имен прилагательных",
+                    description: "",
+                    videoId: "KUOLyrg3VjQ", 
+                    notesUrl: "",
+                    duration: "1:20"
                 }
                 
             ]
