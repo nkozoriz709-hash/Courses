@@ -675,6 +675,14 @@
                     videoId: "gNkjgee94a4",
                     notesUrl: "https://disk.yandex.by/i/7Z6H2c2E8A_IXw",
                     duration: "1:28"
+                },
+                 {
+                    id: 26,
+                    title: "Сложное предложение с разными видами связи",
+                    description: "",
+                    videoId: "Gi2i08K1j8g", 
+                    notesUrl: "",
+                    duration: "1:35"
                 }
                 
             ]
@@ -915,6 +923,14 @@
                     videoId: "KUOLyrg3VjQ", 
                     notesUrl: "",
                     duration: "1:20"
+                },
+                {
+                    id: 30,
+                    title: "Образование глаголов",
+                    description: "",
+                    videoId: "tQnkcCKl4DE", 
+                    notesUrl: "",
+                    duration: "1:33"
                 }
                 
             ]
