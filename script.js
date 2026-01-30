@@ -683,6 +683,14 @@
                     videoId: "Gi2i08K1j8g", 
                     notesUrl: "",
                     duration: "1:35"
+                },
+                {
+                    id: 27,
+                    title: "Чужая речь",
+                    description: "",
+                    videoId: "_ksVTum7_cc", 
+                    notesUrl: "https://disk.yandex.by/i/ru0z27ChWakDyw",
+                    duration: "1:28"
                 }
                 
             ]
@@ -931,6 +939,14 @@
                     videoId: "tQnkcCKl4DE", 
                     notesUrl: "",
                     duration: "1:33"
+                },
+                {
+                    id: 31,
+                    title: "Видовременная система глаголов",
+                    description: "",
+                    videoId: "eH1ICQLGwOk",
+                    notesUrl: "",
+                    duration: "1:31"
                 }
                 
             ]
