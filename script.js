@@ -699,6 +699,14 @@
                     videoId: "RQyvQYEqrsQ", 
                     notesUrl: "https://disk.yandex.by/i/PNZZw0SJMKeG9g",
                     duration: "1:28"
+                },
+                {
+                    id: 29,
+                    title: "Синтаксичекие нормы",
+                    description: "",
+                    videoId: "0TDLOd-3XEE", 
+                    notesUrl: "https://disk.yandex.by/i/J0ZDdqfmpHmN-Q",
+                    duration: "1:28"
                 }
                 
             ]
@@ -963,6 +971,14 @@
                     videoId: "y4gW7-x9PwE", 
                     notesUrl: "",
                     duration: "1:29"
+                },
+                {
+                    id: 33,
+                    title: "Частицы и союзы",
+                    description: "",
+                    videoId: "BugcMNCgU1A",
+                    notesUrl: "",
+                    duration: "1:31"
                 }
                 
             ]
