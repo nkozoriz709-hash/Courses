@@ -707,6 +707,14 @@
                     videoId: "0TDLOd-3XEE", 
                     notesUrl: "https://disk.yandex.by/i/J0ZDdqfmpHmN-Q",
                     duration: "1:28"
+                },
+                {
+                    id: 30,
+                    title: "Текст. Типы речи. Стили речи. Решение тестовых заданий",
+                    description: "",
+                    videoId: "0l9fu2hSMrE", 
+                    notesUrl: "",
+                    duration: "1:28"
                 }
                 
             ]
@@ -979,6 +987,14 @@
                     videoId: "BugcMNCgU1A",
                     notesUrl: "",
                     duration: "1:31"
+                },
+                {
+                    id: 34,
+                    title: "Местоимения",
+                    description: "",
+                    videoId: "o_wBvec-5ew", 
+                    notesUrl: "",
+                    duration: "1:34"
                 }
                 
             ]
