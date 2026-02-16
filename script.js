@@ -715,6 +715,14 @@
                     videoId: "0l9fu2hSMrE", 
                     notesUrl: "",
                     duration: "1:28"
+                },
+                {
+                    id: 31,
+                    title: "Повторение: Морфология",
+                    description: "",
+                    videoId: "zDQ_T4cExQA",
+                    notesUrl: "",
+                    duration: "1:27"
                 }
                 
             ]
@@ -995,6 +1003,14 @@
                     videoId: "o_wBvec-5ew", 
                     notesUrl: "",
                     duration: "1:34"
+                },
+                {
+                    id: 35,
+                    title: "Лексика",
+                    description: "",
+                    videoId: "DQOu9RuGlK0",
+                    notesUrl: "",
+                    duration: "1:33"
                 }
                 
             ]
