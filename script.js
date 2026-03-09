@@ -480,56 +480,56 @@
                     id: 1,
                     title: "Фонетика",
                     description: "",
-                    videoId: "MOOxkGH2nto",
-                    notesUrl: "https://disk.yandex.by/i/Utakin8_aMd3-Q",
+                    videoId: "MOH2nto",
+                    notesUrl: "https://disk.yandex.b/Utakin8_aMd3Q",
                     duration: "1:32"
                 },
                 {
                     id: 2,
                     title: "Лексика",
                     description: "",
-                    videoId: "v0oHIb51oA8", 
-                    notesUrl: "https://disk.yandex.by/i/34CQbWalAtZzxw",
+                    videoId: "v0o51oA8", 
+                    notesUrl: "https://disk.yandex.by/iCQbWalAtZzxw",
                     duration: "1:30"
                 },
                 {
                     id: 3,
                     title: "Именные части речи",
                     description: "",
-                    videoId: "YI3ai5StduE",
-                    notesUrl: "https://disk.yandex.by/i/g11IYA-4g4yGMg",
+                    videoId: "YI3aiduE",
+                    notesUrl: "https://disk.yaby/i/g11IYA-4g4yGMg",
                     duration: "1:36"
                 },
                 {
                     id: 4,
                     title: "Глагол",
                     description: "",
-                    videoId: "osw1YXAZfV4", 
-                    notesUrl: "https://disk.yandex.by/i/_jLmVy837mr5rw",
+                    videoId: "osAZfV4", 
+                    notesUrl: "https:/k.yandex.by/i/_jLmVy837mr5rw",
                     duration: "1:45"
                 },
                 {
                     id: 5,
                     title: "Служебные части речи",
                     description: "",
-                    videoId: "G7CjRq3lgtc", 
-                    notesUrl: "https://disk.yandex.by/i/ju3MrvCjFyCWlA",
+                    videoId: "G7C3lgtc", 
+                    notesUrl: "tps://disk.yandex.by/i/ju3MrvCjFyCWlA",
                     duration: "1:32"
                 },
                 {
                     id: 6,
                     title: "Состав слова",
                     description: "",
-                    videoId: "fS2G1QS0We4",
-                    notesUrl: "https://disk.yandex.by/i/CosVVXrZuJKGmg",
+                    videoId: "fS2G1e4",
+                    notesUrl: "hs://disk.yandex.by/i/CosVVXrZuJKGmg",
                     duration: "1:33"
                 },
                 {
                     id: 7,
                     title: "Образование слов",
                     description: "",
-                    videoId: "OwqALgOkGWw", 
-                    notesUrl: "https://disk.yandex.by/i/AFPan-BAgo1vig",
+                    videoId: "OwqALgOWw", 
+                    notesUrl: "httpsdisk.yandex.by/i/AFPan-BAgo1vig",
                     duration: "1:31"
                 }
                 
