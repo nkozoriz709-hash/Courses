@@ -507,31 +507,8 @@
                     videoId: "osAZfV4", 
                     notesUrl: "https:/k.yandex.by/i/_jLmVy837mr5rw",
                     duration: "1:45"
-                },
-                {
-                    id: 5,
-                    title: "Служебные части речи",
-                    description: "",
-                    videoId: "G7C3lgtc", 
-                    notesUrl: "tps://disk.yandex.by/i/ju3MrvCjFyCWlA",
-                    duration: "1:32"
-                },
-                {
-                    id: 6,
-                    title: "Состав слова",
-                    description: "",
-                    videoId: "fS2G1e4",
-                    notesUrl: "hs://disk.yandex.by/i/CosVVXrZuJKGmg",
-                    duration: "1:33"
-                },
-                {
-                    id: 7,
-                    title: "Образование слов",
-                    description: "",
-                    videoId: "OwqALgOWw", 
-                    notesUrl: "httpsdisk.yandex.by/i/AFPan-BAgo1vig",
-                    duration: "1:31"
                 }
+                    
                 
             ]
         },
