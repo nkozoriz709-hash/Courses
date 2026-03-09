@@ -12,7 +12,7 @@
         defaultTheme: 'light',
         // Пароли для доступа к курсам
         passwords: {
-            russian: '65446',
+            russian: '65432',
             english: '13345'
         },
         // Минимальная длина пароля
