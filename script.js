@@ -539,9 +539,119 @@
                     videoId: "wX5P4w1f1Z0",
                     notesUrl: "https://disk.yandex.by/i/VA6MOB-HH6rZEw",
                     duration: "1:27"
-                }
-
-              
+                },
+                {
+                    id: 9,
+                    title: "Правописание о-ё после шипящих, ы-и после ц и приставоок",
+                    description: "",
+                    videoId: "5Dr7EbhIfKU", 
+                    notesUrl: "https://disk.yandex.by/i/ZLjF5Tbw4Hvj1g",
+                    duration: "1:31"
+                },
+                {
+                    id: 10,
+                    title: "Правописание согласных, приставок",
+                    description: "",
+                    videoId: "WDBi1CeMHog",
+                    notesUrl: "https://disk.yandex.by/i/Vbyr4SfGx-a_Yw",
+                    duration: "1:29"
+                },
+                {
+                    id: 11,
+                    title: "Правописание Ъ и Ь",
+                    description: "",
+                    videoId: "oCgV83sep-c", 
+                    notesUrl: "https://disk.yandex.by/i/rBG79u5LXMzNmA",
+                    duration: "1:32"
+                },
+                {
+                    id: 12,
+                    title: "Правописание существительный и прилагательных",
+                    description: "",
+                    videoId: "g3k0O0LrLqs", 
+                    notesUrl: "https://disk.yandex.by/i/FGr50Rkkdcf76A",
+                    duration: "1:29"
+                },
+                {
+                    id: 13,
+                    title: "Правописание глаголов",
+                    description: "",
+                    videoId: "PTA5TXhfJ5o", 
+                    notesUrl: "https://disk.yandex.by/i/VqmKKkNM1vfGvA",
+                    duration: "1:30"
+                },
+                {
+                    id: 14,
+                    title: "Правописание -н- и -нн- в разных частях речи",
+                    description: "",
+                    videoId: "l1l0rw1GH4w", 
+                    notesUrl: "https://disk.yandex.by/i/4J2dpvybCasZsA",
+                    duration: "1:34"
+                },
+                {
+                    id: 15,
+                    title: "Правописание сложных существительных и прилагательных",
+                    description: "",
+                    videoId: "BO5le5fOzMQ", 
+                    notesUrl: "https://disk.yandex.by/i/O90TSPNu7ESBwQ",
+                    duration: "1:30"
+                },
+                {
+                    id: 16,
+                    title: "Правописание наречий",
+                    description: "",
+                    videoId: "geKgR-VKGBU", 
+                    notesUrl: "https://disk.yandex.by/i/dne5_H4hpViOqA",
+                    duration: "1:32"
+                },
+                {
+                    id: 17,
+                    title: "Правописание частиц НЕ и НИ",
+                    description: "",
+                    videoId: "vuN1xiJXllQ",
+                    notesUrl: "https://disk.yandex.by/i/DOPPhxkkRN411g",
+                    duration: "1:31"
+                },
+                {
+                    id: 18,
+                    title: "Словосочетание",
+                    description: "",
+                    videoId: "iByPTtm7VS0", 
+                    notesUrl: "https://disk.yandex.by/i/xz07C1kAd9IKPA",
+                    duration: "1:34"
+                },
+                {
+                    id: 19,
+                    title: "Простое предложение",
+                    description: "",
+                    videoId: "WMbjY9amFDY", 
+                    notesUrl: "https://disk.yandex.by/i/K7LkG-sSj3Ta5Q",
+                    duration: "1:32"
+                },
+                {
+                    id: 20,
+                    title: "Второстепенные члены предложения. Синтаксическая функция инфинитива. Односоставные предложения",
+                    description: "",
+                    videoId: "Sjqu3ugAqYw", 
+                    notesUrl: "https://disk.yandex.by/i/KSMjZj664KQPzw",
+                    duration: "1:33"
+                },
+                {
+                    id: 21,
+                    title: "Осложненное предложение. Однородные члены. Вводные слова",
+                    description: "",
+                    videoId: "Vqvx0oFGwA0", 
+                    notesUrl: "https://disk.yandex.by/i/VRe3JvD7tX8k5g",
+                    duration: "1:32"
+                },
+                {
+                    id: 22,
+                    title: "Обособленные члены предложения",
+                    description: "",
+                    videoId: "XOX7vRq0UIg",
+                    notesUrl: "https://disk.yandex.by/i/KiQhuWqmSlTLeQ",
+                    duration: "1:33"
+                },
                 
             ]
         },
@@ -712,7 +822,7 @@
                 },
                 {
                     id: 21,
-                    title: "Местоимения either, neither, both, none. Местоимения another, (the) other",
+                    title: "Местоимоны either, neither, both, none. Местоимения another, (the) other",
                     description: "",
                     videoId: "28NSXQQdAwE", 
                     notesUrl: "",
@@ -758,87 +868,6 @@
                     notesUrl: "",
                     duration: "1:28"
                 },
-                {
-                    id: 27,
-                    title: "Социокультурная компетенция",
-                    description: "",
-                    videoId: "Kzx_moev_1o",
-                    notesUrl: "",
-                    duration: "1:31"
-                },
-                {
-                    id: 28,
-                    title: "Словообразование существительных",
-                    description: "",
-                    videoId: "mPtSdmfpc2c",
-                    notesUrl: "",
-                    duration: "1:21"
-                },
-                {
-                    id: 29,
-                    title: "Образование имен прилагательных",
-                    description: "",
-                    videoId: "KUOLyrg3VjQ", 
-                    notesUrl: "",
-                    duration: "1:20"
-                },
-                {
-                    id: 30,
-                    title: "Образование глаголов",
-                    description: "",
-                    videoId: "tQnkcCKl4DE", 
-                    notesUrl: "",
-                    duration: "1:33"
-                },
-                {
-                    id: 31,
-                    title: "Видовременная система глаголов",
-                    description: "",
-                    videoId: "eH1ICQLGwOk",
-                    notesUrl: "",
-                    duration: "1:31"
-                },
-                {
-                    id: 32,
-                    title: "Артикли и предлоги",
-                    description: "",
-                    videoId: "y4gW7-x9PwE", 
-                    notesUrl: "",
-                    duration: "1:29"
-                },
-                {
-                    id: 33,
-                    title: "Частицы и союзы",
-                    description: "",
-                    videoId: "BugcMNCgU1A",
-                    notesUrl: "",
-                    duration: "1:31"
-                },
-                {
-                    id: 34,
-                    title: "Местоимения",
-                    description: "",
-                    videoId: "o_wBvec-5ew", 
-                    notesUrl: "",
-                    duration: "1:34"
-                },
-                {
-                    id: 35,
-                    title: "Лексика",
-                    description: "",
-                    videoId: "DQOu9RuGlK0",
-                    notesUrl: "",
-                    duration: "1:33"
-                },
-                {
-                    id: 36,
-                    title: "Словообразование",
-                    description: "",
-                    videoId: "bq9OM5cNpX4",
-                    notesUrl: "",
-                    duration: "1:29"
-                }
-                
                 
             ]
         }
